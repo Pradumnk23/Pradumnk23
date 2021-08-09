@@ -22,10 +22,6 @@
 [![alt text][6.1]][6]
 
 
-<!-- links to social media icons -->
-<!-- no need to change these -->
-
-<!-- icons with padding -->
 
 [1.1]: https://img.icons8.com/windows/50/808080/twitter.png (Twitter icon)
 [3.1]: https://img.icons8.com/ios-glyphs/48/808080/instagram-new.png (Instagram  icon)
@@ -33,12 +29,6 @@
 [5.1]: https://img.icons8.com/windows/48/808080/quora.png (Quora icon)
 [6.1]: https://img.icons8.com/ios-filled/46/808080/github.png (Github icon)
 
-<!-- icons without padding -->
-
-
-
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
 
 [1]: https://twitter.com/Pradumnk23
 [3]: https://www.instagram.com/pradumn_i_legion/

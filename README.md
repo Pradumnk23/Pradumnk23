@@ -11,7 +11,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Pradumnk23&show_icons=true&theme=vision-friendly-dark">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pradumnk23&layout=compact)](https://github.com/Pradumnk23/Food-Filler)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pradumnk23&show_icons=true&theme=vision-friendly-dark&layout=compact)](https://github.com/Pradumnk23/Food-Filler)
 
 ## Connect with me
 
@@ -29,11 +29,11 @@
 <!-- icons with padding -->
 
 [1.1]: https://img.icons8.com/windows/50/808080/twitter.png (Twitter icon)
-[2.1]: https://img.icons8.com/android/48/000000/facebook-new.png (Facebook icon)
-[3.1]: https://img.icons8.com/ios-glyphs/48/000000/instagram-new.png (Instagram  icon)
-[4.1]: https://img.icons8.com/ios-filled/48/000000/linkedin.png (LinkedIn icon)
-[5.1]: https://img.icons8.com/windows/48/000000/quora.png (Quora icon)
-[6.1]: https://img.icons8.com/ios-filled/48/000000/github.png (Github icon)
+[2.1]: https://img.icons8.com/android/45/808080/facebook-new.png (Facebook icon)
+[3.1]: https://img.icons8.com/ios-glyphs/48/808080/instagram-new.png (Instagram  icon)
+[4.1]: https://img.icons8.com/ios-filled/48/808080/linkedin.png (LinkedIn icon)
+[5.1]: https://img.icons8.com/windows/48/808080/quora.png (Quora icon)
+[6.1]: https://img.icons8.com/ios-filled/48/808080/github.png (Github icon)
 
 <!-- icons without padding -->
 

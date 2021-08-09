@@ -16,7 +16,6 @@
 ## Connect with me
 
 [![alt text][1.1]][1]
-[![alt text][2.1]][2]
 [![alt text][3.1]][3]
 [![alt text][4.1]][4]
 [![alt text][5.1]][5]
@@ -29,11 +28,10 @@
 <!-- icons with padding -->
 
 [1.1]: https://img.icons8.com/windows/50/808080/twitter.png (Twitter icon)
-[2.1]: https://img.icons8.com/android/45/808080/facebook-new.png (Facebook icon)
 [3.1]: https://img.icons8.com/ios-glyphs/48/808080/instagram-new.png (Instagram  icon)
-[4.1]: https://img.icons8.com/ios-filled/48/808080/linkedin.png (LinkedIn icon)
+[4.1]: https://img.icons8.com/ios-filled/46/808080/linkedin.png (LinkedIn icon)
 [5.1]: https://img.icons8.com/windows/48/808080/quora.png (Quora icon)
-[6.1]: https://img.icons8.com/ios-filled/48/808080/github.png (Github icon)
+[6.1]: https://img.icons8.com/ios-filled/46/808080/github.png (Github icon)
 
 <!-- icons without padding -->
 
@@ -43,7 +41,6 @@
 <!-- update these accordingly -->
 
 [1]: https://twitter.com/Pradumnk23
-[2]: https://www.facebook.com/pradumn.kumar.7524/
 [3]: https://www.instagram.com/pradumn_i_legion/
 [4]: https://www.linkedin.com/in/pradumnk23/
 [5]: https://www.quora.com/profile/Pradumn-Kumar-38

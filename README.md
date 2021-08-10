@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Pradumn Kumar :)
 
-- 🔭 IT, 2nd Year HITH
+- 🔭 2nd Year, IT@HITH
 - 🔗 Web Developer & Graphics Designer at HITian Inside.
 - 🌱 I’m currently learning Backend, DSA
 - 🤔 I’m looking for help with Projects
@@ -23,11 +23,11 @@
 
 
 
-[1.1]: https://img.icons8.com/windows/50/808080/twitter.png (Twitter icon)
-[3.1]: https://img.icons8.com/ios-glyphs/48/808080/instagram-new.png (Instagram  icon)
-[4.1]: https://img.icons8.com/ios-filled/46/808080/linkedin.png (LinkedIn icon)
-[5.1]: https://img.icons8.com/windows/48/808080/quora.png (Quora icon)
-[6.1]: https://img.icons8.com/ios-filled/46/808080/github.png (Github icon)
+[1.1]: https://img.icons8.com/windows/50/0000FF/twitter.png (Twitter icon)
+[3.1]: https://img.icons8.com/ios-glyphs/48/0000FF/instagram-new.png (Instagram  icon)
+[4.1]: https://img.icons8.com/ios-filled/46/0000FF/linkedin.png (LinkedIn icon)
+[5.1]: https://img.icons8.com/windows/48/0000FF/quora.png (Quora icon)
+[6.1]: https://img.icons8.com/ios-filled/46/0000FF/github.png (Github icon)
 
 
 [1]: https://twitter.com/Pradumnk23

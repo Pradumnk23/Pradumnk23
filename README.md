@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Backend, DSA
 - 🤔 I’m looking for help with Projects
 - 📫 How to reach me: [@LinkedIn](https://www.linkedin.com/in/pradumnk23/)
-- ⚡ Fun fact: Soldier In BGMI 🤣
+- ⚡ Fun fact: ACP In BGMI 🤣
 
 <a href="https://github.com/Pradumnk23"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Pradumnk23?label=Follow%20on%20Github&style=for-the-badge"></a> [![Twitter Follow](https://img.shields.io/twitter/follow/Pradumnk23?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Pradumnk23)
 

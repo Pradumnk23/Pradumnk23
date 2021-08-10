@@ -23,11 +23,11 @@
 
 
 
-[1.1]: https://img.icons8.com/windows/50/0000FF/twitter.png (Twitter icon)
-[3.1]: https://img.icons8.com/ios-glyphs/48/0000FF/instagram-new.png (Instagram  icon)
-[4.1]: https://img.icons8.com/ios-filled/46/0000FF/linkedin.png (LinkedIn icon)
-[5.1]: https://img.icons8.com/windows/48/0000FF/quora.png (Quora icon)
-[6.1]: https://img.icons8.com/ios-filled/46/0000FF/github.png (Github icon)
+[1.1]: https://img.icons8.com/windows/50/8a2be2/twitter.png (Twitter icon)
+[3.1]: https://img.icons8.com/ios-glyphs/48/8a2be2/instagram-new.png (Instagram  icon)
+[4.1]: https://img.icons8.com/ios-filled/46/8a2be2/linkedin.png (LinkedIn icon)
+[5.1]: https://img.icons8.com/windows/48/8a2be2/quora.png (Quora icon)
+[6.1]: https://img.icons8.com/ios-filled/46/8a2be2/github.png (Github icon)
 
 
 [1]: https://twitter.com/Pradumnk23

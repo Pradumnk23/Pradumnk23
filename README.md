@@ -11,7 +11,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Pradumnk23&show_icons=true&theme=vision-friendly-dark">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pradumnk23&show_icons=true&theme=vision-friendly-dark&layout=compact)](https://github.com/Pradumnk23/Food-Filler)
+<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pradumnk23&show_icons=true&theme=vision-friendly-dark&layout=compact)](https://github.com/Pradumnk23/Food-Filler) --->
 
 ## Connect with me
 

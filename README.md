@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Pradumn Kumar :)
 
-- 🔭 2nd Year, IT@HITH
+- 🔭 3rd Year, IT@HITH
 - 🔗 Web Developer & Graphics Designer at HITian Inside.
 - 🌱 I’m currently learning Backend, DSA
 - 🤔 I’m looking for help with Projects

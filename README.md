@@ -2,8 +2,8 @@
 
 - 🔭 3rd Year, IT@HITH
 - 🔗 Web Developer & Graphics Designer at HITian Inside.
-- 🌱 I’m currently learning Backend, DSA
-- 🤔 I’m looking for help with Projects
+- 🌱 I’m currently learning React.
+- 🤔 I’m looking for help with Project
 - 📫 How to reach me: [@LinkedIn](https://www.linkedin.com/in/pradumnk23/)
 - ⚡ Fun fact: ACP In BGMI 🤣
 

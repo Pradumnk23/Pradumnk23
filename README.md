@@ -25,7 +25,7 @@
 <code><img width="40px" src="https://img.icons8.com/dusk/64/000000/database-restore.png" title="Database"/></code>
 <code><img width="40px" src="https://img.icons8.com/plasticine/100/000000/react.png" title="React"/></code>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pradumnk23&show_icons=true&theme=vision-friendly-dark">
+<!---<img src="https://github-readme-stats.vercel.app/api?username=Pradumnk23&show_icons=true&theme=vision-friendly-dark">--->
 
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pradumnk23&show_icons=true&theme=vision-friendly-dark&layout=compact)](https://github.com/Pradumnk23/Food-Filler) --->
 

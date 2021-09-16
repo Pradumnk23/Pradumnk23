@@ -9,7 +9,7 @@
 
 <a href="https://github.com/Pradumnk23"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Pradumnk23?label=Follow%20on%20Github&style=for-the-badge"></a> [![Twitter Follow](https://img.shields.io/twitter/follow/Pradumnk23?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Pradumnk23)
 
- ### 🔧 Languages and Frameworks:
+ ### ⚙️ Languages and Frameworks:
 <code><img width="40px" src="https://img.icons8.com/color/3x/c-programming.png" title="C"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/4x/000000/python.png" title="Python"/></code>

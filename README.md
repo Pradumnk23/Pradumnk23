@@ -2,8 +2,8 @@
 
 - 🔭 3rd Year, IT@HITH
 - 🔗 Web Developer & Graphics Designer at HITian Inside.
-- 🌱 I’m currently learning React.js, Angular.js
-- 🤔 I’m looking for help with Project
+- 🌱 I’m currently learning React.js.
+- 🤔 I’m looking for 6 months internship.
 - 📫 How to reach me: [@LinkedIn](https://www.linkedin.com/in/pradumnk23/)
 - ⚡ Fun fact: ACP In BGMI 🤣
 

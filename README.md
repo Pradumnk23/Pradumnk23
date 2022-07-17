@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Pradumn Kumar :)
 
-- 🔭 3rd Year, IT@HITH
+- 🔭 Final Year, IT@HITH
 - 🔗 Web Developer & Graphics Designer at HITian Inside.
 - 🌱 I’m currently learning React.js.
 - 🤔 I’m looking for 6 months internship.

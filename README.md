@@ -47,7 +47,7 @@
 
 
 [1]: https://twitter.com/Pradumnk23
-[2]: https://www.instagram.com/pradumn_i_legion/
+[2]: https://www.instagram.com/acp_2326/
 [3]: https://www.linkedin.com/in/pradumnk23/
 [4]: https://www.quora.com/profile/Pradumn-Kumar-38
 [5]: https://github.com/Pradumnk23 

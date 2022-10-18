@@ -40,7 +40,7 @@
 
 
 [1.1]: https://img.icons8.com/windows/50/0366d6/twitter.png (Twitter icon)
-[2.1]: https://img.icons8.com/ios-glyphs/48/0366d6/instagram-new.png (Instagram  icon)
+[2.1]: https://img.icons8.com/ios-glyphs/50/0366d6/instagram-new.png (Instagram  icon)
 [3.1]: https://img.icons8.com/ios-filled/46/0366d6/linkedin.png (LinkedIn icon)
 [4.1]: https://img.icons8.com/windows/48/0366d6/quora.png (Quora icon)
 [5.1]: https://img.icons8.com/ios-filled/46/0366d6/github.png (Github icon)

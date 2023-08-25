@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Pradumn Kumar :)
 
-- 🔭 Final Year, IT@HITH
-- 🔗 Web Developer & Graphics Designer at HITian Inside.
+- 🔭 Security Services Associate @ Synopsys.
+- 🔗 Ex-SDE Intern @ Clappia.
 - 🌱 I’m currently learning Backend.
-- 🤔 I’m looking for 6 month internship.
+- 🤔 I’m looking for full time SDE role.
 - 📫 How to reach me: [@LinkedIn](https://www.linkedin.com/in/pradumnk23/)
 - ⚡ Fun fact: ACP In BGMI 🤣
 

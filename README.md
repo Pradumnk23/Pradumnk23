@@ -2,8 +2,8 @@
 
 - 🔭 Security Services Associate @ Synopsys.
 - 🔗 Ex-SDE Intern @ Clappia.
-- 🌱 I’m currently learning Backend.
 - 🤔 I’m looking for full time SDE role.
+- 🌱 I’m currently upskilling myself.
 - 📫 How to reach me: [@LinkedIn](https://www.linkedin.com/in/pradumnk23/)
 - ⚡ Fun fact: ACP In BGMI 🤣
 

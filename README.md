@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Pradumn Kumar :)
 
 - 🔭 Security Services Associate @ Synopsys.
-- 🔗 Ex-Intern @ Synopsys || Ex-SDE Intern @ Clappia.
+- 🔗 Ex-Intern(Technical-Engineering) @ Synopsys || Ex-SDE Intern @ Clappia.
 - 🤔 I’m looking for full time SDE role.
 - 🌱 I’m currently upskilling myself.
 - 📫 How to reach me: [@LinkedIn](https://www.linkedin.com/in/pradumnk23/)
